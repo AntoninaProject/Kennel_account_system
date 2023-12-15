@@ -20,6 +20,15 @@
 
 ![](md_images/Dz3Ch3.jpg)
 
+4. Установить и удалить deb-пакет с помощью dpkg.
+
+![](md_images/Dz4Ch1.jpg)
+
+![](md_images/Dz4Ch2.jpg)
+
+![](md_images/Dz4Ch3.jpg)
+
+
 
 
 
