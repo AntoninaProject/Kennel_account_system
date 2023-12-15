@@ -28,6 +28,10 @@
 
 ![](md_images/Dz4Ch3.jpg)
 
+5. Выложить [историю команд](https://github.com/AntoninaProject/Kennel_account_system/blob/main/System/HistoryCommandsUbuntuTerminal.md) в терминале ubuntu
+
+
+
 
 
 
