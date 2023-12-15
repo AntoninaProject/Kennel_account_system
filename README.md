@@ -30,6 +30,10 @@
 
 5. Выложить [историю команд](https://github.com/AntoninaProject/Kennel_account_system/blob/main/System/HistoryCommandsUbuntuTerminal.md) в терминале ubuntu
 
+6. Нарисовать [диаграмму](https://github.com/AntoninaProject/Kennel_account_system/blob/main/System/UML.drawio), в которой есть класс родительский класс, домашние животные и вьючные животные, в составы которых в случае домашних животных войдут классы: собаки, кошки, хомяки, а в класс вьючные животные войдут: Лошади, верблюды и ослы).
+
+
+
 
 
 
