@@ -34,6 +34,13 @@
 
 ![](md_images/Dz6Diagr.jpg)
 
+7. В подключенном MySQL репозитории создать базу данных “Друзья человека”
+
+```
+CREATE DATABASE Human_friends;
+
+```
+
 
 
 
